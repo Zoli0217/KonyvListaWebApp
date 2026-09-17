@@ -19,6 +19,6 @@ public class IndexModel : PageModel
 
     public async Task OnGetAsync()
     {
-        Konyvek = await _context.Konyvek.ToListAsync();
+        Konyvek = await _context.Konyvek.OrderByDescending(k => k.Id).ToListAsync();
     }
 }

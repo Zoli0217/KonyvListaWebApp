@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvListaWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvlistawebapp\\konyvlistawebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|solutionrelative:konyvlistawebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvlistawebapp\\konyvlistawebapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|solutionrelative:konyvlistawebapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvlistawebapp\\konyvlistawebapp\\pages\\konyvpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|solutionrelative:konyvlistawebapp\\pages\\konyvpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvlistawebapp\\konyvlistawebapp\\pages\\konyvpages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|solutionrelative:konyvlistawebapp\\pages\\konyvpages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvlistawebapp\\konyvlistawebapp\\pages\\konyvpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|solutionrelative:konyvlistawebapp\\pages\\konyvpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvlistawebapp\\konyvlistawebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|solutionrelative:konyvlistawebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvlistawebapp\\konyvlistawebapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|solutionrelative:konyvlistawebapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABC9BAD-4401-4443-AB9F-FBB3C1E873A0}|KonyvlistaWebApp\\KonyvlistaWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvlistawebapp\\konyvlistawebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvListaWebApp\\KonyvlistaWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "KonyvlistaWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "KonyvlistaWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-17T11:40:08.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T11:40:08.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvListaWebApp\\KonyvlistaWebApp\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KonyvlistaWebApp\\Pages\\Shared\\_Layout.cshtml",
@@ -88,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvListaWebApp\\KonyvlistaWebApp\\Pages\\KonyvPages\\Index.cshtml",
               "RelativeDocumentMoniker": "KonyvlistaWebApp\\Pages\\KonyvPages\\Index.cshtml",
@@ -101,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvListaWebApp\\KonyvlistaWebApp\\Pages\\KonyvPages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "KonyvlistaWebApp\\Pages\\KonyvPages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvListaWebApp\\KonyvlistaWebApp\\Pages\\KonyvPages\\Index.cshtml.cs",
               "RelativeToolTip": "KonyvlistaWebApp\\Pages\\KonyvPages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T11:36:25.063Z",
               "EditorCaption": ""
@@ -122,8 +121,7 @@
               "RelativeToolTip": "KonyvlistaWebApp\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-17T11:30:49.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T11:30:49.947Z"
             },
             {
               "$type": "Document",
@@ -135,8 +133,7 @@
               "RelativeToolTip": "KonyvlistaWebApp\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T11:27:37.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T11:27:37.302Z"
             },
             {
               "$type": "Document",
@@ -148,8 +145,7 @@
               "RelativeToolTip": "global.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-17T11:05:21.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T11:05:21.955Z"
             },
             {
               "$type": "Document",
@@ -161,8 +157,7 @@
               "RelativeToolTip": "KonyvlistaWebApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T11:00:14.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T11:00:14.237Z"
             },
             {
               "$type": "Document",
@@ -174,8 +169,7 @@
               "RelativeToolTip": "KonyvlistaWebApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-17T10:59:18.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T10:59:18.268Z"
             },
             {
               "$type": "Document",
@@ -187,8 +181,7 @@
               "RelativeToolTip": "KonyvlistaWebApp\\Models\\Konyv.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T10:49:04.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T10:49:04.167Z"
             },
             {
               "$type": "Document",
@@ -200,8 +193,7 @@
               "RelativeToolTip": "KonyvlistaWebApp\\Data\\KonyvtarDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T10:48:12.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T10:48:12.848Z"
             },
             {
               "$type": "Document",
@@ -213,8 +205,7 @@
               "RelativeToolTip": "KonyvlistaWebApp\\KonyvlistaWebApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-17T10:46:23.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T10:46:23.116Z"
             }
           ]
         }
