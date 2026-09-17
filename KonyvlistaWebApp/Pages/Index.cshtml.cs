@@ -1,3 +1,5 @@
+using KonyvlistaWebApp.Data;
+using KonyvlistaWebApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -7,12 +9,17 @@ public class IndexModel : PageModel
 {
     private readonly ILogger<IndexModel> _logger;
 
-    public IndexModel(ILogger<IndexModel> logger)
+    protected readonly KonyvtarDbContext _context;
+
+    public IndexModel(KonyvtarDbContext context)
     {
-        _logger = logger;
+        _context = context;
     }
+
+    public IList<Konyv> Konyvek { get; set; }
 
     public void OnGet()
     {
+        Konyvek = _context.Konyvek.ToList();
     }
 }

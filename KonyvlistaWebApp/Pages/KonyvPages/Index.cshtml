@@ -1,0 +1,54 @@
+@page
+@model KonyvlistaWebApp.Pages.KonyvPages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Konyvek[0].Cim)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Konyvek[0].Szerzo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Konyvek[0].KiadasEve)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Konyvek[0].Ar)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Konyvek) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.Cim)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Szerzo)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.KiadasEve)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Ar)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
